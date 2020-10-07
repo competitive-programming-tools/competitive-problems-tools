@@ -1,7 +1,8 @@
 ---
 name: Documentação de Sprint
 about: Template padrão para documentar as atividades e responsáveis da sprint
-labels:sprint planning
+labels: sprint planning
+
 ---
 
 ## Documentação da Nª Sprint
