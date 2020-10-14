@@ -5,6 +5,7 @@
 | :--------: | :----: | :------------------: | :-------------: |
 | 07.10.2020 |  0.1   | Criação do documento | Durval Carvalho |
 | 07.10.2020 |  0.2   | Adição dos tópicos Introdução e Objetivos | Durval Carvalho |
+| 13.10.2020 |  0.3   | Adição da versão inicial da Rich picture | João Victor |
 
 <div align="justify">
 
@@ -45,13 +46,15 @@ Já as recomendações são:
 - 7. Observe os papéis sociais que são considerados na situação como significativos, e observe os tipos de comportamentos esperados das pessoas nesses papéis. Se você encontrar algum conflito, indique-o.
 
 
-## Objetivo
+## 2. Objetivo
 
 Com a denição de Rich Pictures em mente, podemos dizer que o objetivo da realização dessa atividade é que os membros do projeto melhorem a compreensão do escopo do projeto, e não apenas uma maneira de registrar o que se sabe a respeito do domínio até então. Portanto, o objetivo é criar uma representação gráfica dos situações que envolve o nosso contexto.
 
 Portanto podemos concluir que a realização Rich Pictures  
 
+## 3. Versão 0.1
 
+<img src="_media/rich_picture.png">
 
 
 
